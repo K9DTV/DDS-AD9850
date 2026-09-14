@@ -1,6 +1,6 @@
-# DDS-AD9850 for ARDUINO testing
+﻿# DDS-AD9850 for ARDUINO testing
 
-[![Compile](https://github.com/dogma2u/DDS-AD9850/actions/workflows/compile.yml/badge.svg)](https://github.com/dogma2u/DDS-AD9850/actions/workflows/compile.yml)
+[![Compile](https://github.com/K9DTV/DDS-AD9850/actions/workflows/compile.yml/badge.svg)](https://github.com/K9DTV/DDS-AD9850/actions/workflows/compile.yml)
 
 **Project page:** https://k9dtv.com/project-dds-ad9850.html
 
