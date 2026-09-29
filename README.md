@@ -1,4 +1,4 @@
-﻿# DDS-AD9850 for ARDUINO testing
+# DDS-AD9850 for ARDUINO testing
 
 [![Compile](https://github.com/K9DTV/DDS-AD9850/actions/workflows/compile.yml/badge.svg)](https://github.com/K9DTV/DDS-AD9850/actions/workflows/compile.yml)
 
@@ -13,4 +13,8 @@ I think it was written by m0xpd, that can be found on this site.
 This is ment for lab work and not HAM stuff as m0xpd was using it for.
 
 many things were changed, like leading zero suppression, frequency  from 10hz to 30MHZ in 0.1 Hz steps.
-This is work in progress 
+This is work in progress
+
+## License
+
+MIT -- see `LICENSE`.
