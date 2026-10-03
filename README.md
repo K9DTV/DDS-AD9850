@@ -1,6 +1,7 @@
 # DDS-AD9850 for ARDUINO testing
 
 [![Compile](https://github.com/K9DTV/DDS-AD9850/actions/workflows/compile.yml/badge.svg)](https://github.com/K9DTV/DDS-AD9850/actions/workflows/compile.yml)
+![License](https://img.shields.io/github/license/K9DTV/DDS-AD9850)
 
 **Project page:** https://k9dtv.com/project-dds-ad9850.html
 
